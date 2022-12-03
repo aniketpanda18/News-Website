@@ -1,3 +1,3 @@
-﻿# News-Website
+﻿# Full Stack News-Website
 
 Today the world totally relays upon the electronic media to its every day adventure. People have no time to be updated through newspaper or watching or listening the news on television or radios. People today need to be updated on daily basis in this competitive world. Most of the people get the information about the world around through the internet which is fast, accessible, and reliable. The WWW (World Wide Web) is huge, widely distributed, global information service centre for Information services: news, advertisements, consumer information, financial management, education, government, e-commerce etc, hyper-link information, access and usage information. "24 Hours News Portal" is a service introduced to meet the above requirement and to make the people updated about the news, views, reviews, breaking news and latest headlines in different fields also the new inventions around the world.
